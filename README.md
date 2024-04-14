@@ -1,7 +1,6 @@
 
 <img width="250" align="right" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
-
 <h3 align="center">
   Welcome to Abeer Mahgoub's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -11,6 +10,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+
+
+
+
 
 - Research Assistant (2 years): During my two-year tenure as a Research Assistant, I honed my skills in collecting, cleaning, and analyzing data to derive meaningful insights. I developed proficiency in various data analysis tools and techniques, translating complex data into actionable recommendations that drove informed decision-making. My work ranged from machine learning model development to predictive analytics, showcasing my adaptability in addressing diverse analytical challenges.
 
