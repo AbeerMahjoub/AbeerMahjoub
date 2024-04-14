@@ -1,7 +1,6 @@
 
 <img width="250" align="right" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
-<img align="right" alt="Coding" width="250" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 <h3 align="center">
   Welcome to Abeer Mahgoub's profile!
