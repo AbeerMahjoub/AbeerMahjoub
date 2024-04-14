@@ -14,13 +14,13 @@
 
 
 
-
+<p>
 - Research Assistant (2 years): During my two-year tenure as a Research Assistant, I honed my skills in collecting, cleaning, and analyzing data to derive meaningful insights. I developed proficiency in various data analysis tools and techniques, translating complex data into actionable recommendations that drove informed decision-making. My work ranged from machine learning model development to predictive analytics, showcasing my adaptability in addressing diverse analytical challenges.
 
 - Currently, I am actively pursuing a master’s degree in informatics, which has allowed me to deepen my knowledge in data science, machine learning, and advanced statistical methods. My coursework has not only expanded my theoretical understanding but has also provided a platform to apply these concepts in real-world research projects.
 
 - Looking ahead, I am excited to continue my academic journey and bridge the gap between academia and industry. I aspire to engage in groundbreaking research projects that not only advance our understanding of data science but also provide practical solutions to real-world challenges.
-
+</p>
 
 ### Connect with Me :
 
