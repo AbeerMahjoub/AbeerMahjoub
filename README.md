@@ -8,9 +8,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+Learning+New+Things;&center=true&)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+Learning+New+Things.;&center=true&vCenter=true)](https://git.io/typing-svg)
 
-<
+
 
 
 
